@@ -11,7 +11,7 @@
 <li>Yogurt</li> </ul>
 <br>
 <ul> <strong>Snacks</strong>
-<li>Gummy Bears <strong>(ONLY THE RED ONES)</li>
+<li>Gummy Bears <strong>(ONLY THE RED ONES)</strong></li>
 <li>Potato Chips</li>
 <li>Chocolate Chip Cookies</li>
 <li>Cracckers</li>
