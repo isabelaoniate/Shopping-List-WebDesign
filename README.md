@@ -4,7 +4,7 @@
 <body>
 <h1>My Shopping List</h1>
 <ul> <strong>Dairy</strong> 
-<li>Sour Cream</li> <img src="![sourcream](https://github.com/isabelaoniate/Shopping-List-WebDesign/assets/144402014/c587e81c-9df5-49c0-bdd7-1d7dd06aa52d)" alt="Sour Cream"> 
+<li>Sour Cream</li> <img src="![sourcream](https://github.com/isabelaoniate/Shopping-List-WebDesign/assets/144402014/c587e81c-9df5-49c0-bdd7-1d7dd06aa52d)" alt="Sour Cream"</img> 
 <li>Cheese</li>
 <li>Milk</li>
 <li>Cream Cheese</li>
