@@ -4,7 +4,7 @@
 <body>
 <h1>My Shopping List</h1>
 <ul> <strong>Dairy</strong> 
-<li>Sour Cream</li> <img src=
+<li>Sour Cream</li>
 <li>Cheese</li>
 <li>Milk</li>
 <li>Cream Cheese</li>
