@@ -4,10 +4,10 @@
 <body>
 <h1>My Shopping List</h1>
 <ul> <strong>Dairy</strong> 
+<li>Sour Cream</li> 
   <div class="gallery">
     <div class="box">
-      <div class="image">![sourcream](https://github.com/isabelaoniate/Shopping-List-WebDesign/assets/144402014/cd6beb4d-ad7e-4261-8759-75e1fd3d7815) </div>
-<li>Sour Cream</li>
+      <div class="image"> Sour Cream.jpg </div>
 <li>Cheese</li>
 <li>Milk</li>
 <li>Cream Cheese</li>
