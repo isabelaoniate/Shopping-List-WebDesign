@@ -4,8 +4,7 @@
 <body>
 <h1>My Shopping List</h1>
 <ul> <strong>Dairy</strong> 
-<li>Sour Cream</li> 
-  <div class="gallery">
+<li>Sour Cream</li>  <div class="gallery">
     <div class="box">
       <div class="image"> Sour Cream.jpg </div>
 <li>Cheese</li>
