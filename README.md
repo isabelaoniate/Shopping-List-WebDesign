@@ -17,7 +17,7 @@
 </ul>
 <ul> <strong>Snacks</strong>
 <li>Gummy Bears <strong>(ONLY THE RED ONES)</strong></li>
-   <a href=""><img src="gummies.png" alt="red gummy bears" width="50" height="50"></a>
+   <a href="https://www.justcandy.com/al50107-red-gummi-bears/p?skuId=960"><img src="gummies.png" alt="red gummy bears" width="50" height="50"></a>
 <li>Potato Chips</li>
    <a href=""><img src="chips.png" alt="Lays chips" width="50" height="50"></a>
 <li>Chocolate Chip Cookies</li>
