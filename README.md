@@ -13,6 +13,7 @@
   <img src="creamcheese.png" alt="cream cheese" width="50" height="50">
 <li>Yogurt</li> </ul>
   <img src="yougurt.png" alt="yogurt" width="50" height="50">
+</ul>
 <br>
 <ul> <strong>Snacks</strong>
 <li>Gummy Bears <strong>(ONLY THE RED ONES)</strong></li>
