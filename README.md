@@ -8,31 +8,31 @@
 <li>Cheese</li>
   <img src="cheese.png" alt="cheese" width="50" height="50">
 <li>Milk</li>
-  <img src="" alt="milk" width="50" height="50">
+  <img src="milk.png" alt="milk" width="50" height="50">
 <li>Cream Cheese</li>
-  <img src="" alt="" width="50" height="50">
+  <img src="creamcheese.png" alt="cream cheese" width="50" height="50">
 <li>Yogurt</li> </ul>
-  <img src="" alt="" width="50" height="50">
+  <img src="yogurt.png" alt="yogurt" width="50" height="50">
 <br>
 <ul> <strong>Snacks</strong>
 <li>Gummy Bears <strong>(ONLY THE RED ONES)</strong></li>
-   <img src="" alt="" width="50" height="50">
+   <img src="gummies.png" alt="red gummy bears" width="50" height="50">
 <li>Potato Chips</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="chips.png" alt="Lays chips" width="50" height="50">
 <li>Chocolate Chip Cookies</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="cookies.png" alt="cookies" width="50" height="50">
 <li>Cracckers</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="crackers.png" alt="crackers" width="50" height="50">
 <li>Dark Chocolate</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="choc.png" alt="dark chocolate" width="50" height="50">
 </ul>
 <ul> <strong>Meat</strong>
 <li>Bacon</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="bacon.png" alt="bacon" width="50" height="50">
 <li>Steak</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="steak.png" alt="steak" width="50" height="50">
 <li>Porkchop</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="pork.png" alt="porkchop" width="50" height="50">
 <li>Ground Chicken</li>
    <img src="chicken.png" alt="ground chicken" width="50" height="50">
 <li>Chicken Breast</li>
