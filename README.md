@@ -4,15 +4,16 @@
 <body>
 <h1>My Shopping List</h1>
 <ul> <strong>Dairy</strong> 
-<li>Sour Cream</li>  <a href="https://www.heb.com/product-detail/daisy-sour-cream/314023"><img src="sourcream.jpg" alt="Sour Cream" width="50" height="50"></a>
+<li>Sour Cream</li>  
+  <a href="https://www.heb.com/product-detail/daisy-sour-cream/314023"><img src="sourcream.jpg" alt="Sour Cream" width="50" height="50"></a>
 <li>Cheese</li>
-  <a href=""><img src="cheese.png" alt="cheese" width="50" height="50"></a>
+  <a href="https://www.usdairy.com/news-articles/cheese-types-what-you-need-to-know-about-cheese"><img src="cheese.png" alt="cheese" width="50" height="50"></a>
 <li>Milk</li>
   <a href="https://www.walmart.com/ip/Great-Value-Whole-Vitamin-D-Milk-Gallon-128-fl-oz/10450114"><img src="milk.png" alt="milk" width="50" height="50"></a>
 <li>Cream Cheese</li>
-  <a href=""><img src="creamcheese.png" alt="cream cheese" width="50" height="50"></a>
+  <a href="https://www.target.com/p/philadelphia-original-cream-cheese-spread-8oz/-/A-12959515"><img src="creamcheese.png" alt="cream cheese" width="50" height="50"></a>
 <li>Yogurt</li> </ul>
-  <a href=""><img src="yougurt.png" alt="yogurt" width="50" height="50"></a>
+  <a href="https://www.generalmillscf.com/products/category/yogurt/bulk/32-ounce/yoplait-lowfat-strawberry"><img src="yougurt.png" alt="yogurt" width="50" height="50"></a>
 </ul>
 <ul> <strong>Snacks</strong>
 <li>Gummy Bears <strong>(ONLY THE RED ONES)</strong></li>
