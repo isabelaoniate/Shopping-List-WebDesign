@@ -14,7 +14,6 @@
 <li>Yogurt</li> </ul>
   <img src="yougurt.png" alt="yogurt" width="50" height="50">
 </ul>
-<br>
 <ul> <strong>Snacks</strong>
 <li>Gummy Bears <strong>(ONLY THE RED ONES)</strong></li>
    <img src="gummies.png" alt="red gummy bears" width="50" height="50">
