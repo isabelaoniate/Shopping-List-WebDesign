@@ -8,7 +8,7 @@
 <li>Cheese</li>
   <img src="cheese.png" alt="" width="50" height="50">
 <li>Milk</li>
-  <img src="" alt="" width="50" height="50">
+  <img src="milk.png" alt="" width="50" height="50">
 <li>Cream Cheese</li>
   <img src="" alt="" width="50" height="50">
 <li>Yogurt</li> </ul>
