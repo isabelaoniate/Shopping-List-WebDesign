@@ -7,7 +7,7 @@
 <li>Sour Cream</li>  
   <a href="https://www.heb.com/product-detail/daisy-sour-cream/314023"><img src="sourcream.jpg" alt="Sour Cream" width="50" height="50"></a>
 <li>Cheese</li>
-  <a href="https://www.usdairy.com/news-articles/cheese-types-what-you-need-to-know-about-cheese"><img src="cheese.png" alt="cheese" width="50" height="50"></a>
+  <a href="https://www.usdairy.com/news-articles/cheese-types-what-you-need-to-know-about-cheese" alt="cheese" width="50" height="50"></a>
 <li>Milk</li>
   <a href="https://www.walmart.com/ip/Great-Value-Whole-Vitamin-D-Milk-Gallon-128-fl-oz/10450114"><img src="milk.png" alt="milk" width="50" height="50"></a>
 <li>Cream Cheese</li>
