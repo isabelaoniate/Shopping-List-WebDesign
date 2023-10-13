@@ -8,7 +8,7 @@
 <li>Cheese</li>
   <img src="cheese.png" alt="cheese" width="50" height="50">
 <li>Milk</li>
-  <img src="milk.png" alt="milk" width="50" height="50">
+  <img src="" alt="milk" width="50" height="50">
 <li>Cream Cheese</li>
   <img src="" alt="" width="50" height="50">
 <li>Yogurt</li> </ul>
@@ -40,7 +40,7 @@
 </ul>
 <ul> <strong>Craft Supplies</strong>
 <li>Paint Brushes</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="brushes.png" alt="paint brushes" width="50" height="50">
 <li>Yarn</li>
    <img src="" alt="" width="50" height="50">
 <li>Canvases</li>
