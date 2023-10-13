@@ -4,7 +4,7 @@
 <body>
 <h1>My Shopping List</h1>
 <ul> <strong>Dairy</strong> 
-<li>Sour Cream</li>  <img src="sourcream.jpg" alt="Sour Cream" width="50" height="50">
+<li>Sour Cream</li>  <a href="https://www.heb.com/product-detail/daisy-sour-cream/314023"><img src="sourcream.jpg" alt="Sour Cream" width="50" height="50"></a>
 <li>Cheese</li>
   <img src="cheese.png" alt="cheese" width="50" height="50">
 <li>Milk</li>
