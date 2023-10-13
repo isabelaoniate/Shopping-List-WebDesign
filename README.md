@@ -34,31 +34,31 @@
 <li>Porkchop</li>
    <img src="" alt="" width="50" height="50">
 <li>Ground Chicken</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="chicken.png" alt="ground chicken" width="50" height="50">
 <li>Chicken Breast</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="cbreast.png" alt="chicken breast" width="50" height="50">
 </ul>
 <ul> <strong>Craft Supplies</strong>
 <li>Paint Brushes</li>
    <img src="brushes.png" alt="paint brushes" width="50" height="50">
 <li>Yarn</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="yarn.png" alt="yarn" width="50" height="50">
 <li>Canvases</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="canvas.png" alt="canvases" width="50" height="50">
 <li>Scissors</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="sci.png" alt="scissors" width="50" height="50">
 <li>Crayons</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="crayon.png" alt="crayons" width="50" height="50">
 </ul>
 <ul> <strong>Beverages</strong>
 <li>Coke</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="coke.png" alt="coke" width="50" height="50">
 <li>Coffee</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="coffee.png" alt="coffee" width="50" height="50">
 <li> Apple Juice</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="applejuice.png" alt="apple juice" width="50" height="50">
 <li>Lemonade</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="lemon.png" alt="lemonade" width="50" height="50">
 <li>Iced Tea</li>
-   <img src="" alt="" width="50" height="50">
+   <img src="icedtea.png" alt="iced tea" width="50" height="50">
 </ul>
