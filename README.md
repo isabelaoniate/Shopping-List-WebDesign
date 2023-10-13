@@ -6,6 +6,7 @@
 <ul> <strong>Dairy</strong> 
 <li>Sour Cream</li>  <img src="sourcream.jpg" alt="Sour Cream" width="50" height="50">
 <li>Cheese</li>
+  <img src="cheese.png" alt="Sour Cream" width="50" height="50">
 <li>Milk</li>
 <li>Cream Cheese</li>
 <li>Yogurt</li> </ul>
